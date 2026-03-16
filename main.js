@@ -17,4 +17,12 @@ const hitungRumusSegitiga = (panjang, tinggi) => {
   `)
 }
 
+const hitungPersegi = (sisi) => {
+  const luas = sisi * sisi;
+  console.log(`
+  sisi persegi   : ${sisi}cm
+  luas persegi   : ${luas}
+  `)
+}
+
 gantiNama('hidup jokowi');
