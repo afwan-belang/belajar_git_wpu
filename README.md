@@ -9,6 +9,6 @@ Dengan belajar ini, saya ingin terbiasa dalam menggunakan berbagai fitur di gith
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <script src="main.js"></script>
+    
   </body>
 </html>
